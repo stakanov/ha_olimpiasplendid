@@ -1,6 +1,6 @@
 {
   "domain": "ha_olimpiasplendid",
-  "name": "OlimpiaSplendid Home Assistant Integration",
+  "name": "Olimpia Splendid modbus integration for Home Assistant",
   "version": "1.0.0",
   "documentation": "https://github.com/stakanov/ha_olimpiasplendid",
   "requirements": [
