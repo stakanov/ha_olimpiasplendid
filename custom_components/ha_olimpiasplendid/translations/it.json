@@ -1,0 +1,29 @@
+{
+  "title": "Olimpia Splendid",
+  "config": {
+    "hub": "Hub Modbus",
+    "device": "Dispositivo Olimpia",
+    "port": "Porta seriale",
+    "baudrate": "Velocità (baudrate)",
+    "parity": "Parità",
+    "stopbits": "Stop Bits",
+    "slave": "ID Slave",
+    "device_type": "Tipo di dispositivo",
+    "name": "Nome del dispositivo"
+  },
+  "sensor": {
+    "mode": "Modalità",
+    "presence": "Contatto presenza",
+    "standby": "Standby",
+    "fan": "Velocità ventilatore",
+    "temperature": "Temperatura",
+    "setpoint": "Setpoint"
+  },
+  "select": {
+    "mode": "Modalità",
+    "fan": "Velocità ventilatore"
+  },
+  "number": {
+    "fan_speed": "Valore velocità ventilatore"
+  }
+}

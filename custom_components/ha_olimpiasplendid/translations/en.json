@@ -1,0 +1,29 @@
+{
+  "title": "Olimpia Splendid",
+  "config": {
+    "hub": "Modbus Hub",
+    "device": "Olimpia Device",
+    "port": "Serial Port",
+    "baudrate": "Baudrate",
+    "parity": "Parity",
+    "stopbits": "Stop Bits",
+    "slave": "Slave ID",
+    "device_type": "Device Type",
+    "name": "Device Name"
+  },
+  "sensor": {
+    "mode": "Mode",
+    "presence": "Presence Contact",
+    "standby": "Standby",
+    "fan": "Fan Speed",
+    "temperature": "Temperature",
+    "setpoint": "Setpoint"
+  },
+  "select": {
+    "mode": "Mode",
+    "fan": "Fan Speed"
+  },
+  "number": {
+    "fan_speed": "Fan Speed Value"
+  }
+}
